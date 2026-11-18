@@ -1,0 +1,6 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Calendar">
+<path id="Vector" d="M5.25 3.75H12.75C13.9926 3.75 15 4.75736 15 6V13.5C15 14.7426 13.9926 15.75 12.75 15.75H5.25C4.00736 15.75 3 14.7426 3 13.5V6C3 4.75736 4.00736 3.75 5.25 3.75Z" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" stroke="#17382D"/>
+<path id="Vector_2" d="M6 2.25V5.25M12 2.25V5.25M3 8.25H15" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" stroke="#17382D"/>
+</g>
+</svg>
